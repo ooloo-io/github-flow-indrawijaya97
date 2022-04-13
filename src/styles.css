@@ -4,7 +4,7 @@ body {
 }
 
 .header {
-  height: 50px;
+  height: 49px;
   display: flex;
   justify-content: center;
   align-items: center;
